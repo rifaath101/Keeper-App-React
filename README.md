@@ -1,14 +1,10 @@
 # Keeper-App-React
 
-https://user-images.githubusercontent.com/72337379/150751524-79ef4100-d508-42f7-9d58-2d1b240f0d8d.mp4
-
-https://2o3j2.csb.app/
-
-Purpose : 
+## Purpose : 
 
 To understand how React works
 
-Concepts Learned : 
+## Concepts Learned : 
 
 1. How useState() works
 2. Props
@@ -16,4 +12,7 @@ Concepts Learned :
 4. Using map() with React
 5. Using Material-UI icons
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/72337379/154089906-5ca62ba7-1b1b-4216-9855-87d584d98b5d.png)
 
